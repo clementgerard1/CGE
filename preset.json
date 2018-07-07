@@ -1,0 +1,7 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 6, "obj-43", "number~", "list", 1.0, 0.0, 6, "obj-37", "number~", "list", 392.0, 0.0, 6, "obj-38", "number~", "list", 218.0, 0.0, 6, "obj-39", "number~", "list", 31.0, 0.0, 6, "obj-40", "number~", "list", 36.0, 0.0, 6, "obj-33", "number~", "list", 0.0, 0.0, 6, "obj-34", "number~", "list", 0.0, 0.0, 6, "obj-35", "number~", "list", 0.0, 0.0, 6, "obj-36", "number~", "list", 0.0, 0.0, 6, "obj-13", "number~", "list", 0.0, 0.0, 6, "obj-14", "number~", "list", 0.1, 0.0, 6, "obj-15", "number~", "list", 0.6, 0.0, 6, "obj-16", "number~", "list", 1.0, 0.0, 6, "obj-11", "number~", "list", 0.95, 0.0, 6, "obj-12", "number~", "list", 0.9, 0.0, 6, "obj-7", "number~", "list", 0.5, 0.0, 6, "obj-6", "number~", "list", 0.1, 0.0 ]
+		}
+ ]
+}
